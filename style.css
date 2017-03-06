@@ -1,0 +1,18 @@
+#game_container{
+  width: 610px;
+  height: 610px;
+  background-color: lightgrey;
+  margin: 0 auto;
+  border: #999 1px solid;
+  padding: 24px;
+}
+
+#game_container > div{
+  width: 200px;
+  height: 200px;
+  background-color: grey;
+  float: left;
+  border: .5px solid black;
+  font-size: 150px;
+  text-align: center;
+}
